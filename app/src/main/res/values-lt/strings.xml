@@ -1,60 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Paprasta failų tvarkytuvė</string>
-    <string name="app_launcher_name">Failų tvarkytuvė</string>
-    <string name="press_back_again">Paspauskite atgal dar kartą, norėdami išeiti</string>
+    <string name="app_name">Simple File Manager</string>
+    <string name="app_launcher_name">File Manager</string>
+    <string name="press_back_again">Press back again to exit</string>
     <string name="go_to_home_folder">Go to home folder</string>
     <string name="set_as_home_folder">Set as home folder</string>
     <string name="home_folder_updated">Home folder updated</string>
-    <string name="copy_path">Kopijuoti kelią į iškarpinę</string>
-    <string name="path_copied">Kelias nukopijuotas</string>
-    <string name="select_audio_file">Pasirinkite garso įrašo failą</string>
-    <string name="search_folder">Ieškoti aplanke</string>
+    <string name="copy_path">Copy path to clipboard</string>
+    <string name="path_copied">Path copied</string>
+    <string name="select_audio_file">Please select an audio file</string>
+    <string name="search_folder">Search folder</string>
     <string name="rooted_device_only">This operation works only on rooted devices</string>
     <string name="recents">Recents</string>
     <string name="show_recents">Show recents</string>
     <string name="pdf_viewer">PDF Viewer</string>
     <string name="invert_colors">Invert colors</string>
     <!-- Open as -->
-    <string name="open_as">Atverti kaip</string>
-    <string name="text_file">Tekstinis failas</string>
-    <string name="image_file">Paveikslo failas</string>
-    <string name="audio_file">Garso įrašo failas</string>
-    <string name="video_file">Vaizdo įrašo failas</string>
-    <string name="other_file">Kitas failas</string>
+    <string name="open_as">Open as</string>
+    <string name="text_file">Text file</string>
+    <string name="image_file">Image file</string>
+    <string name="audio_file">Audio file</string>
+    <string name="video_file">Video file</string>
+    <string name="other_file">Other file</string>
     <!-- Compression -->
-    <string name="compress">Glaudinti</string>
-    <string name="compress_pro">Glaudinti (Pro)</string>
-    <string name="decompress">Išskleisti</string>
-    <string name="compress_as">Glaudinti kaip</string>
-    <string name="compressing">Glaudinama…</string>
-    <string name="decompressing">Išskleidžiama…</string>
-    <string name="compression_successful">Glaudinimas sėkmingas</string>
-    <string name="decompression_successful">Išskleidimas sėkmingas</string>
-    <string name="compressing_failed">Nepavyko glaudinti</string>
-    <string name="decompressing_failed">Nepavyko išskleisti</string>
+    <string name="compress">Compress</string>
+    <string name="compress_pro">Compress (Pro)</string>
+    <string name="decompress">Decompress</string>
+    <string name="compress_as">Compress as</string>
+    <string name="compressing">Compressing…</string>
+    <string name="decompressing">Decompressing…</string>
+    <string name="compression_successful">Compression successful</string>
+    <string name="decompression_successful">Decompression successful</string>
+    <string name="compressing_failed">Compression failed</string>
+    <string name="decompressing_failed">Decompression failed</string>
     <!-- Favorites -->
     <string name="manage_favorites">Manage favorites</string>
     <string name="go_to_favorite">Go to favorite</string>
     <string name="favorites_activity_placeholder">You can add frequently used folders to favorites for easy access from anywhere.</string>
     <!-- File Editor -->
-    <string name="file_editor">Failų redaktorius</string>
+    <string name="file_editor">File editor</string>
     <!-- Storage analysis -->
-    <string name="storage_analysis">Saugyklos analizė</string>
-    <string name="images">Paveikslai</string>
-    <string name="videos">Vaizdo įrašai</string>
-    <string name="audio">Garso įrašai</string>
-    <string name="documents">Dokumentai</string>
-    <string name="downloads">Atsiuntimai</string>
-    <string name="archives">Archyvai</string>
-    <string name="others">Kiti</string>
-    <string name="storage_free">laisva</string>
+    <string name="storage_analysis">Storage analysis</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="audio">Audio</string>
+    <string name="documents">Documents</string>
+    <string name="downloads">Downloads</string>
+    <string name="archives">Archives</string>
+    <string name="others">Others</string>
+    <string name="storage_free">Free</string>
     <string name="total_storage">Total storage: %s</string>
     <!-- Settings -->
     <string name="enable_root_access">Enable root access</string>
     <string name="press_back_twice">Require pressing Back twice to leave the app</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
-    -->
 </resources>
